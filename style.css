@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+}
+.box{
+    background-color: rgba(0, 0, 0, 0.746);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 35rem;
+    width: 40rem;
+    margin: auto;
+}
+.dog img{
+    width: 200px;
+    height: 200px; 
+    margin: 1rem;
+}
+.btn{
+    background-color: wheat;
+    width: 60px;
+    height: 1.5rem;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 45%;
+    cursor: pointer;
+
+}
