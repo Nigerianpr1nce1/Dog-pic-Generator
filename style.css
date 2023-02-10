@@ -8,6 +8,8 @@ body{
     justify-content: center;
     align-items: center;
     height: 35rem;
+    width: 80%;
+    margin: auto
 }
 .dog img{
     width: 200px;
